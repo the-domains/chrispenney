@@ -1,0 +1,28 @@
+name: ChrisPenney
+favicon: null
+layout_spectrum: 0.05057986779138446
+typography_spectrum: 0.9402948538772762
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+  brandStrength: 0.48513030423782766
+  lightness: 0.020622096257284284
+  saturation: 0.8151399667840451
+  rhythmicContrast: 0.975735693005845
+purpose: []
